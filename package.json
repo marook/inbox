@@ -12,7 +12,8 @@
   "dependencies": {
     "mimelib": "*",
     "utf7": "~1.0.0",
-    "xoauth2": "*"
+    "xoauth2": "*",
+    "socks-client": "1.0.6"
   },
   "devDependencies": {
     "nodeunit": "*",
